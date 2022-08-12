@@ -15,6 +15,6 @@
 </p>
 
 <Exits>
-	<Link to=contrack>No, I don't think morality works off an abstract list like that</Link>
+	<Link to=contrack>No, I don't think morality works off an abstract list like that.</Link>
 	<Link to=detrack>Yes, that's how morality works; some wrong things carry their wrongness with them.</Link>
 </Exits>
