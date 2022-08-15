@@ -25,6 +25,6 @@
 </p>
 
 <Exits>
-	<Link to=detrackactuallytelltruth>I'd tell the truth. A lie is a lie, and it's wrong to lie.</Link>
+	<Link to=detracknaziactuallytelltruth>I'd tell the truth. A lie is a lie, and it's wrong to lie.</Link>
 	<Link to=detracknaziactuallylie>I think I'd actually probably lie here.</Link>
 </Exits>

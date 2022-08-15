@@ -18,8 +18,7 @@
 </p>
 <p>Your funny coded category name is SCAPUDE.
 </p>
-<p>
-</p>
+
 
 <Exits>
 	<Link to=Start>I want to try again! Back to the top!</Link>
