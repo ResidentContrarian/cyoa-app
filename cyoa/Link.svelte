@@ -55,7 +55,7 @@
 
 <style>
 	a, p {
-		white-space: nowrap;
+		white-space: normal;
 		padding: 4px 0;
 	}
 </style>
