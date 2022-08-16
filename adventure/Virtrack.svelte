@@ -23,6 +23,6 @@
 
 <Exits>
 	<Link to=virself>I'm trying to figure out what the best version of myself would do. Like, I have a certain version of myself I hope to someday be, and I look for the action that works towards making me that person.</Link>
-	<Link to=verhero>I imagine a heroically good person, real or hypothetical and then try to imagine what they'd do, and do that.</Link>
+	<Link to=virhero>I imagine a heroically good person, real or hypothetical and then try to imagine what they'd do, and do that.</Link>
 	<Link to=verminism>I try to think of what would be best for James - to nurture him, to help him to grow, and to get him to bathe.</Link>
 </Exits>

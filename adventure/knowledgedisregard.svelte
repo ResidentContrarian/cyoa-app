@@ -14,7 +14,7 @@
 </p>
 <p>There's a few different end-states in this project that I basically suspect don't exist in real life; this is one, for reasons you probably find clear. But I feel like this is also a situation which would come up in thought problems, since the level to which you can predict outcomes is pretty important to how viable consequentialism is as a moral system. 
 </p>
-<p>There's other endings where the liar is desregarding the wishes of the lied to, but for the record I like this one more than most of them; at least here the person is pretty certain they are maximizing utility, even if they might be mistaken.
+<p>There's other endings where the liar is disregarding the wishes of the lied to, but for the record I like this one more than most of them; at least here the person is pretty certain they are maximizing utility, even if they might be mistaken.
 </p>
 <p>Your funny coded category name is PAPAOMNICON.
 </p>

@@ -21,6 +21,6 @@
 
 <Exits>
 	<Link to=virneverlie>They NEVER lie. They are a perfect person.</Link>
-	<Link to=virseldomlie>They RARELY lies. They are a perfect person who adjusts his actions to suit the situation, but he has a strong bias towards truth.</Link>
+	<Link to=virseldomlie>They RARELY lie. They are a perfect person who adjusts his actions to suit the situation, but he has a strong bias towards truth.</Link>
 	<Link to=viroftenlie>They OFTEN lie. They are a perfect person who considers things situationally, and acts mostly in accordance to what they think will produce great outcomes</Link>
 </Exits>
