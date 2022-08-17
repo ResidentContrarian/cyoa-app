@@ -18,7 +18,7 @@
 	}))
 </script>
 
-<h2>Inventory</h2>
+<h2></h2>
 
 <ul>
 	{#each inventory as { name, carrying }}

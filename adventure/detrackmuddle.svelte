@@ -21,4 +21,4 @@
 <Exits>
 	<Link to=Start>I want to try again! Back to the top!</Link>
 </Exits>
-<a href=https://residentcontrarian.com>I want to hear your post-writing-this thoughts! Back to the blog!</a>
+<a href=https://www.residentcontrarian.com/p/post-interactive-nonfiction-thoughts>I want to hear your post-writing-this thoughts! Back to the blog!</a>

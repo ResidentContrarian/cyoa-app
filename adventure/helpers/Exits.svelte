@@ -1,5 +1,5 @@
 <div>
-	<h3>Exits</h3>
+	<h3></h3>
 
 	<div class=exits-list>
 		<slot></slot>

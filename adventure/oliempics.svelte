@@ -8,17 +8,7 @@
 
 </script>
 
-<h2></h2>
-
 <p>Training?
-</p>
-<p>
-</p>
-<p>
-</p>
-<p>
-</p>
-<p>
 </p>
 
 <Exits>

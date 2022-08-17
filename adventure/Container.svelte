@@ -11,27 +11,6 @@
 	</div>
 
 	<footer>
-		{#if $current_page_name === `Score`}
-			<span class=currently_on>Score</span>
-		{:else}
-			<Link to=Score>Score</Link>
-		{/if}
-
-		{#if $current_page_name === `Inventory`}
-			<span class=currently_on>Inventory</span>
-		{:else}
-			<Link to=Inventory>Inventory</Link>
-		{/if}
-
-		<Save
-			{Link}
-			{state}
-			{current_page_name}
-		/>
-
-		<Link to=Start state={initial_state}>
-			Reset
-		</Link>
 	</footer>
 </div>
 

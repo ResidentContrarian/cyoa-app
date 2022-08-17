@@ -46,7 +46,7 @@
 		.reduce(sum_points, 0)
 </script>
 
-<h2>Score</h2>
+<h2></h2>
 
 <ul>
 	{#each score_opportunities as {text, points, achieved}}

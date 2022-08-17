@@ -8,8 +8,6 @@
 
 </script>
 
-<h2></h2>
-
 <p>So you have this theoretical or actual role model who, basically, you trust to do things correctly; you look to what they do and imitate them. Got it. But the next relevant thing seems to be asking this: What kind of person are they? 
 </p>
 <p>In this case, we could make arguments in favor of lying by saying "My role model would probably err towards honesty here for the sake of being a reliable person.". Or "My role model would seek to peacekeep", or even "My role model tends to avoid hard truths at all costs because X" where X is any reasoning that thinks that James should figure out about soap on his own time.

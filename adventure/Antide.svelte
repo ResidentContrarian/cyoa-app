@@ -25,13 +25,13 @@
 
 <p>In a super-wacky way, you have taken out all the names of other value system's virtues, replaced them with underscores, and are now sitting in a TGI Fridays wondering how best to <i>rock your parent's comic world</i> before the appetizers are served.</p>
 
-<p>Unless you are a confused consequentialist who just thinks lying consistently produces good outcomes, you are a sort of a dark-link version of everyone else. If you are a virtue ethicist, you just think being a liar is a good state; if you are a deontologist, you probably are in some loki-based religion or something.</p>
+<p>Unless you are a confused consequentialist who just thinks lying consistently produces good outcomes, you are a sort of a dark-link version of everyone else. If you are a virtue ethicist, you just think being a liar is a good state; if you are a deontologist, you probably are in some Loki-based religion or something.</p>
 
-<p>Your funny coded category name is MALI HOOBS.
+<p>Your funny coded category name is MALIHOOBS.
 </p>
 
 
 <Exits>
 	<Link to=Start>I want to try again, and I've ignored the "here" link above! Back to the top!</Link>
 </Exits>
-<a href=https://residentcontrarian.com>I want to hear your post-writing-this thoughts! Back to the blog!</a>
+<a href=https://www.residentcontrarian.com/p/post-interactive-nonfiction-thoughts>I want to hear your post-writing-this thoughts! Back to the blog!</a>

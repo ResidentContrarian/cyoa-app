@@ -12,7 +12,7 @@
 </p>
 <p>The way I understand this stance is something like this: We don't usually consider someone who kills someone else in self-defense to be a murderer. It's <i>killing,</i> yes, but not murder; the situation is different enough that we need a different word to cover them. And usually the same is true of things like, say, killing a mass-murdering Nazi in defense of innocents, or stuff like that.
 </p>
-<p>If it applies to killing, it should probably apply to things like lying, too; if anything it's a lower-impact way to get the whole "save a life" thing done. Since it's not quite the same thing, it opens up the possibility of saying "lying is always a sin, but this isn't lying really; we just don't have a good term for lying in self-defense".
+<p>If this semantic flexibility applies to killing, it should probably apply to things like lying, too; if anything it's a lower-impact way to get the whole "save a life" thing done than applying lethal force on the aggressor. Since in some cases we accept that there's a difference between murder and killing, might just it open up the possibility of saying "lying is always a sin, but this isn't lying really; we just don't have a good term for lying in self-defense".
 </p>
 <p>Two questions for you:
 </p>

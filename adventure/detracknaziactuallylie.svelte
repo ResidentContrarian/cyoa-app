@@ -12,14 +12,6 @@
 
 <p>OK, you've indicated that you are going to lie to the Nazi here; that's definitely not all downsides, since your neighbors live. But why did you lie? 
 </p>
-<p>
-</p>
-<p>
-</p>
-<p>
-</p>
-<p>
-</p>
 
 <Exits>
 	<Link to=detractconfork>At some point, the consequences outweigh the rightness or wrongness of the action. In this case, people were going to die; I think my action wasn't wrong considering that.</Link>

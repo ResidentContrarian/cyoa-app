@@ -13,5 +13,5 @@
 
 <Exits>
 	<Link to=Contrack2>What? No, of course not.</Link>
-	<Link to=Antide>Yes.</Link>
+	<Link to=Antide>Yes. Consequences aside, lies are inherently good.</Link>
 </Exits>

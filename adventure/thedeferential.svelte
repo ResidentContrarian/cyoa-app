@@ -16,11 +16,11 @@
 </p>
 <p>There's a version of you (one page back, take the other option) who <i>doesn't</i> think the person you are lying to should get any say in the matter. He's probably a bit more logical in terms of what you'd expect from the cold hard definitions of Consequentialism as a moral system, but I suspect your category has more members than his; not everyone wants to brave the kind of ignorant, lie-hating reactions they would have to weather if their lies were known.
 </p>
-<p>Your funny coded category name is THEDEFERENT.
+<p>Your funny coded category name is DEFERENTSTROKES.
 </p>
 
 
 <Exits>
 	<Link to=Start>I want to try again! Back to the top!</Link>
 </Exits>
-<a href=https://residentcontrarian.com>I want to hear your post-writing-this thoughts! Back to the blog!</a>
+<a href=https://www.residentcontrarian.com/p/post-interactive-nonfiction-thoughts>I want to hear your post-writing-this thoughts! Back to the blog!</a>

@@ -8,7 +8,7 @@
 
 </script>
 
-<h2>You are a Kindof Crazy A-Hole.</h2>
+<h2>You are Kind of a Crazy A-Hole.</h2>
 
 <p>Alternate title: Negative-Outcome Maximizing Logical Consequentialist.
 </p>
@@ -22,4 +22,4 @@
 <Exits>
 	<Link to=Start>I want to try again! Back to the top!</Link>
 </Exits>
-<a href=https://residentcontrarian.com>I want to hear your post-writing-this thoughts! Back to the blog!</a>
+<a href=https://www.residentcontrarian.com/p/post-interactive-nonfiction-thoughts>I want to hear your post-writing-this thoughts! Back to the blog!</a>

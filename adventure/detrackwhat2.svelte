@@ -8,8 +8,6 @@
 
 </script>
 
-<h2></h2>
-
 <p>
 	Wow, OK, got it. 
 </p>
@@ -18,10 +16,6 @@
 </p>
 <p>
 	Taking as a given that you think it would be wrong to lie here, what do you think you'd actually do in this situation?
-</p>
-<p>
-</p>
-<p>
 </p>
 
 <Exits>

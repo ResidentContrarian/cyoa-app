@@ -8,7 +8,7 @@
 
 </script>
 
-<h2>Your are an Omniscient Consequentionalist Paternalist.</h2>
+<h2>Your are an Omniscient Consequentalist Paternalist.</h2>
 
 <p>You care about consequences, and only consequences. You know all outcomes, and only all outcomes. Where people say they prefer to know the truth, consequences be damned, you know better and enforce your will upon them lest they lead themselves astray.
 </p>
@@ -23,4 +23,4 @@
 <Exits>
 	<Link to=Start>I want to try again! Back to the top!</Link>
 </Exits>
-<a href=https://residentcontrarian.com>I want to hear your post-writing-this thoughts! Back to the blog!</a>
+<a href=https://www.residentcontrarian.com/p/post-interactive-nonfiction-thoughts>I want to hear your post-writing-this thoughts! Back to the blog!</a>

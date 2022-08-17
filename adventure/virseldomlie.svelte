@@ -18,8 +18,9 @@
 </p>
 <p>Most of this description is going to be copied to a few other variants on this theme with some minor tweaks. Don't be peeved at me. 
 </p>
+<p>Your funny coded category name is REALITYSVIRTUAL.</p>
 
 <Exits>
 	<Link to=Start>I want to try again! Back to the top!</Link>
 </Exits>
-<a href=https://residentcontrarian.com>I want to hear your post-writing-this thoughts! Back to the blog!</a>
+<a href=https://www.residentcontrarian.com/p/post-interactive-nonfiction-thoughts>I want to hear your post-writing-this thoughts! Back to the blog!</a>
