@@ -12,7 +12,7 @@
 
 <p>So you have this version of yourself as you will eventually ideally be, and You look to what they do and imitate them. Got it. But the next relevant thing seems to be asking this: What kind of person are they? 
 </p>
-<p>In this case, we could make arguments in favor of lying by saying "My future self would probably err towards honesty here for the sake of being a reliable person.". Or "My future self would seek to peacekeep", or even "My future self tends to avoid hard truths at all costs because X" where X is any reasoning that thinks that James should figure out about soap on his own time.
+<p>In this case, we could make arguments in favor of lying by saying "My future self would probably err towards honesty here for the sake of being a reliable person.". Or "My future self would seek to peace-keep", or even "My future self tends to avoid hard truths at all costs because X" where X is any reasoning that thinks that James should figure out about soap on his own time.
 </p>
 <p>What's the preference here?
 </p>
