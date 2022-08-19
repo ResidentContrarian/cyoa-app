@@ -18,6 +18,6 @@
 </p>
 
 <Exits>
-	<Link to=knowledgedisregard>Of course I don't - I think it's wrong to not maximize utility, we've covered this.</Link>
-	<Link to=knowledgerespect>Of course I don't - you can't <i>completely</i> disregard the desires of others.</Link>
+	<Link to=knowledgedisregard>I do what I've judged is best - I think it's wrong to not maximize utility, we've covered this.</Link>
+	<Link to=knowledgerespect>I respect James' preference - you can't <i>completely</i> disregard the desires of others.</Link>
 </Exits>
